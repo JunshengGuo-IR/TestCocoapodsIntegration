@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://developer.impactradius.com"
   s.license       = { :type => "Copyright", :text => "Copyright (c) 2017 Impact Radius. All rights reserved." }
   s.author    = "Impact Radius Inc."
-  s.platform     = :ios, "9.3"
+  s.ios.deployment_target     = "6.0"
   s.source       = { :git => "https://github.com/JunshengGuo-IR/ir-event-tracker.git", :tag => "#{s.version}" }
   s.source_files = "EventTracker/*.h"
   s.public_header_files = "EventTracker/*.h"
