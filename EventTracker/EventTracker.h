@@ -2,8 +2,8 @@
 //  irEventTracker.h
 //  irEventTracker
 //
-//  Created by Tyler Thomas on 10/14/13.
-//  Copyright (c) 2013 Impact Radius. All rights reserved.
+//  Created by Tyler Thomas.
+//  Copyright (c) 2017 Impact Radius. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
