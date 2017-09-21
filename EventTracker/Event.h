@@ -1,10 +1,12 @@
 //
 //  Event.h
 //
-//  Created by Tyler Thomas on 1/10/13.
-//  Copyright (c) 2013 Impact Radius. All rights reserved.
+//  Created by Tyler Thomas
+//  Copyright (c) 2017 Impact Radius. All rights reserved.
 //
 
+#ifndef Event_h
+#define Event_h
 #import <Foundation/Foundation.h>
 
 
@@ -78,3 +80,5 @@
 - (void)changeToInstall;
 
 @end
+
+#endif //Event_h
